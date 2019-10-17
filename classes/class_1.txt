@@ -1,0 +1,23 @@
+Class: Waitstaff
+
+Attributes:
+firstName ["Mike", "Andy", "Maggie", "Ellen"] (array)
+lastName ["Hart", "Jimenez", "Smith", "Jones"] (array)
+address (string)
+hourlyWage (float)
+hoursPerWeek (float)
+workingToday (boolean)
+nickname (string)
+pronoun (string)
+birthDate (dateTime)
+yearsEmployed (integer)
+shirtSize (string)
+pantSize (string)
+
+
+Methods:
+calculatePaycheck (multiplies the hourlyWage float by the hoursPerWeek float)
+printNameTag (prints strings from nickname and pronoun attributes)
+printPayStub (prints firstName, lastName, address, hourlyWage, and hoursPerWeek)
+orderUniform (uses strings from shirtSize and pantSize to fill out order form)
+coverShift (uses workingToday boolean and firstName and lastName strings to print a list of available waitstaff to cover a shift today)
