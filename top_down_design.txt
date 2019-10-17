@@ -1,0 +1,85 @@
+How to Become a Turing Student
+
+1 Prepare application materials
+  1.1 Write resume
+    1.1.1 Include contact information
+    1.1.2 Include education history
+    1.1.3 Include work history
+    1.1.4 Check for errors
+      if resume contains errors
+      yes:
+      1.1.4.1 Correct errors
+      1.1.4.2 Repeat check for errors
+      no:
+      1.1.4.1 Upload resume via online form
+2 Complete logic assessment
+  2.1 Click to begin assessment
+  2.2 Read instructions
+  2.3 Read first question
+  2.4 Solve first question
+    2.4.1 Write down parameters of logic question
+    2.4.2 Combine any parameters if possible
+    2.4.3 Identify most restrictive parameters
+    2.4.4 Draw a diagram to represent variables in question
+      2.4.4.1 Draw one dash for each variable
+    2.4.5 Read possible answers
+    2.4.6 Test first answer
+      2.4.6.1 Fill in diagram using information from first answer
+      2.4.6.2 Check answer against each constraint
+        if answer holds up to each constraint
+        yes:
+        2.4.6.2.1 Select answer as correct
+        no:
+        2.4.6.2.1 Move on to next possible answer
+  2.5 Repeat steps 2.1-2.4 for each question
+  2.6 Submit logic assessment
+3 Go to interview
+  3.1 Sign up for interview time slot via online form
+  3.2 Drive to Turing to arrive 15 minutes before interview time
+  3.3 Park
+    3.3.1 Parallel park
+    3.3.2 Pay at parking meter
+  3.4 Walk to Turing address
+  3.5 Enter through lobby
+  3.6 Go downstairs
+    3.6.1 Hit "down" elevator button
+    3.6.2 When doors open, enter elevator
+    3.6.3 Select "basement" button
+    3.6.4 When doors open, exit elevator
+  3.7 Walk to Turing suite
+  3.8 Ring doorbell
+  3.9 Introduce yourself and ask for interviewer by name
+  3.10 Follow interviewer to interview space
+4 Complete logic portion of interview process
+  4.1 Read instructions
+    4.1.1 Explain instructions to interviewer
+  4.2 Read first question
+    4.2.1 Explain question to interviewer
+  4.3 Solve first question
+    4.3.1 Write down parameters of logic question
+      4.3.1.1 Explain parameters to interviewer
+    4.3.2 Combine any parameters if possible
+      4.3.2.1 Explain process to interviewer
+    4.3.3 Identify most restrictive parameters
+      4.3.3.1 Explain process to interviewer
+    4.3.4 Draw a diagram to represent variables in question
+      4.3.4.1 Draw one dash for each variable
+      4.3.4.2 Explain diagram to interviewer
+    4.3.5 Read possible answers
+    4.3.6 Test first answer
+      4.3.6.1 Fill in diagram using information from first answer
+      4.3.6.2 Check answer against each constraint
+        if answer holds up to each constraint
+        yes:
+        4.3.6.2.1 Select answer as correct
+        no:
+        4.3.6.2.1 Move on to next possible answer
+      4.3.6.3 Explain answer checking process to interviewer
+  4.4 Repeat steps 4.1-4.3 for each question
+5 Answer questions from interviewer
+  5.1 Listen to question
+  5.2 Answer question honestly and concisely
+  5.3 Repeat steps 5.1-5.2 for each question
+6 Finish interview
+  6.1 Thank interviewer for their time
+  6.2 Shake hands with interviewer
