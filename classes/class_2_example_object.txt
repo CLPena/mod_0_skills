@@ -1,0 +1,16 @@
+Instance: Bread
+
+Attributes:
+dateBought: 2019-10-10
+expirationDate: 2019-10-11
+units: 3
+weight : 2.1
+type: "Whole wheat"
+freezable: true
+
+
+ Methods:
+ checkFreshness return value 1
+ takeInventory return value 3, 2.1, Whole wheat
+ clearInventory changes units and weight to null
+ freeze return value true 2019-10-11

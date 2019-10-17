@@ -19,5 +19,5 @@ Methods:
 calculatePaycheck (multiplies the hourlyWage float by the hoursPerWeek float)
 printNameTag (prints strings from nickname and pronoun attributes)
 printPayStub (prints firstName, lastName, address, hourlyWage, and hoursPerWeek)
-orderUniform (uses strings from shirtSize and pantSize to fill out order form)
+orderUniform (prints strings from shirtSize and pantSize)
 coverShift (uses workingToday boolean and firstName and lastName strings to print a list of available waitstaff to cover a shift today)

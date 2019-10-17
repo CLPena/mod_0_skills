@@ -1,0 +1,16 @@
+Class: Food
+
+Attributes:
+dateBought (dateTime)
+expirationDate (dateTime)
+units (integer)
+weight (float)
+type (string)
+freezable (boolean)
+
+
+ Methods:
+ checkFreshness (subtracts dateBought from expirationDate)
+ takeInventory (prints units, weight, and type)
+ clearInventory (changes units and weight to null)
+ freeze (uses expirationDate and freezable boolean to determine if item can be frozen)

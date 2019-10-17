@@ -1,0 +1,22 @@
+Instance: Waitstaff1
+
+Attributes:
+firstName: ["Mike"]
+lastName: ["Hart"]
+address: "1505 Cornell Drive NE, Albuquerque, NM 87106"
+hourlyWage: 12
+hoursPerWeek: 10
+workingToday: true
+nickname: "Mike"
+pronoun: "he/him"
+birthDate: 1990-02-20
+yearsEmployed: 2
+shirtSize: M
+pantSize: M
+
+
+Methods:
+calculatePaycheck return value 120
+printNameTag return value "Mike he/him"
+printPayStub return value "Mike Hart 1505 Cornell Drive NE, Albuquerque, NM 87106 12 10"
+orderUniform return value "M M"
